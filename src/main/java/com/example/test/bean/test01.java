@@ -14,5 +14,6 @@ public class test01 {
         System.out.println();
 
         ArrayList objects = new ArrayList();
+        System.out.println("创建分支");
     }
 }
